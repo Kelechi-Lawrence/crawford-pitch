@@ -1,3 +1,3 @@
 # crawford-pitch
-CampusPitch – Connect Student Innovators with Student Investors
+CampusPitch – Connect Student Innovators with Student Investors.<br/>
 Still building
